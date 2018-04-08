@@ -18,7 +18,7 @@ To find all the prime numbers less than or equal to a given integer n:
 2. Create an empty array for storing primes.
 3. Mark first two bools as false, as both 0 and 1 are not primes.
 4. Then iterate through the sieve and for every true value
-  * mark it's each multiple as not prime
-  * add it to the primes array
+ - mark it's each multiple as not prime
+ - add it to the primes array
 5. Both multiplication and iteration through the sieve are limited by upper bound n.
 6. Ultimately we have an array of primes.
