@@ -22,3 +22,18 @@ To find all the prime numbers less than or equal to a given integer n:
    - add it to the primes array
 5. Both multiplication and iteration through the sieve are limited by upper bound n.
 6. Ultimately we have an array of primes.
+
+## Author
+
+**Greg (Grzegorz) Surma**
+
+[**PORTFOLIO**](https://gsurma.github.io)
+
+[**GITHUB**](https://github.com/gsurma)
+
+[**BLOG**](https://medium.com/@gsurma)
+
+<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
+
